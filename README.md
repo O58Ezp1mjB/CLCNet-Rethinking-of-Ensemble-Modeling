@@ -3,7 +3,7 @@
 This repository is the official implementation of [CLCNet](https://arxiv.org/abs/2030.12345). 
 
 ### **Architecture Diagram**
-![Architecture](https://github.com/yaoching0/CLCNet/blob/main/images/fig1-1.jpg)
+![Architecture](https://github.com/O58Ezp1mjB/CLCNet-Rethinking-of-Ensemble-Modeling/blob/main/images/fig1-1.jpg)
 
 
 ## **1. Requirements**
